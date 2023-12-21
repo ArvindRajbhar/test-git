@@ -1,0 +1,6 @@
+Rice
+Wheat
+Pulses
+Vegetables
+Fruits
+Water
