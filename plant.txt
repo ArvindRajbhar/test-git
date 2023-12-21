@@ -1,4 +1,4 @@
 tree
 seed
 leaf
-stem
+root

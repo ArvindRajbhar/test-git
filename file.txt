@@ -3,3 +3,5 @@ mango
 banana
 cherry
 grapes
+strawberry
+blueberry
