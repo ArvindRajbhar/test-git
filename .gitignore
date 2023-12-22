@@ -1,0 +1,10 @@
+# Please igonre the file notes.txt
+notes.txt
+
+# Please ignore the images
+image/*.jpg
+image/*.jpeg
+image/*.png
+
+# please ignore .idea
+.idea
